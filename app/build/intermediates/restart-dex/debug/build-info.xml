@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="42692882937787"
+    token="-4510725726463384061" >
+
+    <task
+        name="javac"
+        duration="479" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="297" />
+    <task
+        name="verifier"
+        duration="181" />
+
+    <artifact
+        location="C:\Users\almoctar\PanoramicGame1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="42692882937787" >
+        <artifact
+            location="C:\Users\almoctar\PanoramicGame1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

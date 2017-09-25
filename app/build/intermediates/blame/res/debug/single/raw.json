@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\almoctar\\PanoramicGame1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\maptwo.txt",
+        "source": "C:\\Users\\almoctar\\PanoramicGame1\\app\\src\\main\\res\\raw\\maptwo.txt"
+    },
+    {
+        "merged": "C:\\Users\\almoctar\\PanoramicGame1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\level1.txt",
+        "source": "C:\\Users\\almoctar\\PanoramicGame1\\app\\src\\main\\res\\raw\\level1.txt"
+    },
+    {
+        "merged": "C:\\Users\\almoctar\\PanoramicGame1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapone.txt",
+        "source": "C:\\Users\\almoctar\\PanoramicGame1\\app\\src\\main\\res\\raw\\mapone.txt"
+    }
+]
