@@ -1,1 +1,1 @@
-Platformer game that sought to entertain Africa's environment in focus.
+Platformer game that sought to entertain Africa's life style-based in focus.
