@@ -1,13 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
 MERGED from [com.google.firebase:firebase-ads:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\adc5c5cf9fb2d26fcbcf2873ea630835\jetified-firebase-ads-18.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\27717497dea514e8a74de160ecf4c7c3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:17:1-44:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:17:1-123:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2c64ede3b8a51afd5d3e3254bc0d0a1\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:17:1-36:12
@@ -49,10 +48,6 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6fd5afa84ec0cc225dae7de2995521c3\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\d79562a518be105667b1bd9850dca7a3\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\c2b1c925bfbf36b6711fe9da1c56e038\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:15:1-23:12
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:45:1-56:12
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:2:1-13:12
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:22:1-33:12
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\aa2cb3b926b6f7170ee5b3a30dc866bb\jetified-play-services-ads-base-18.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\38235823be4571b6600ea2768a5f0714\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2f4cd9f01c09369881bb32ad426e821\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -68,9 +63,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\3848ce0d19ab9cf335ba5983cd870b1a\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\b961fb42ac2a3bd19299c4d2ad75e8bf\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\ff3fa64c6fe4a45e86cbfa412d1c05f4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
-INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:1:1-55:12
 	package
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:2:5-39
 		INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
@@ -110,15 +105,13 @@ ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\Panora
 	android:name
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:8:22-63
 application
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:11:5-52:19
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:11:5-53:19
 MERGED from [com.google.firebase:firebase-ads:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\adc5c5cf9fb2d26fcbcf2873ea630835\jetified-firebase-ads-18.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-ads:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\adc5c5cf9fb2d26fcbcf2873ea630835\jetified-firebase-ads-18.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\27717497dea514e8a74de160ecf4c7c3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\27717497dea514e8a74de160ecf4c7c3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:22:5-42:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:18:5-24:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:18:5-24:19
 MERGED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:27:5-121:19
 MERGED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:27:5-121:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
@@ -165,14 +158,6 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Us
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6a9e151ed4fe2e16e7760255c87fe570\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0c9ac8c7cf3c885e267d74fce09f524d\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0c9ac8c7cf3c885e267d74fce09f524d\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:11:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:31:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:31:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\aa2cb3b926b6f7170ee5b3a30dc866bb\jetified-play-services-ads-base-18.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\aa2cb3b926b6f7170ee5b3a30dc866bb\jetified-play-services-ads-base-18.3.0\AndroidManifest.xml:7:5-20
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\38235823be4571b6600ea2768a5f0714\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
@@ -190,55 +175,57 @@ ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\Panora
 	android:name
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:16:13-69
 activity#com.HaizStudio.ChakaZulu.Starting
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:18:9-28:20
 	android:screenOrientation
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:22:13-50
 	android:label
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:21:13-39
+	android:exported
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:23:13-36
 	android:configChanges
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:20:13-72
 	android:name
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:19:13-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:26:27-74
 service#com.HaizStudio.FirebaseCloudMessaging.MyFirebaseMessagingService
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:29:9-35:19
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:30:9-36:19
 	android:exported
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:30:13-92
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:31:13-92
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:32:13-34:29
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:33:13-35:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:33:25-75
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:34:25-75
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:40:9-42:62
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:41:9-43:62
 	android:resource
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:42:13-59
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:43:13-59
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:41:13-83
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:42:13-83
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:45:9-47:53
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:46:9-48:53
 	android:resource
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:47:13-50
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:48:13-50
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:46:13-84
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:47:13-84
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:49:9-51:71
+ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:50:9-52:71
 	android:value
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:51:13-68
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:52:13-68
 	android:name
-		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:50:13-89
+		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml:51:13-89
 uses-sdk
 INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
@@ -249,8 +236,6 @@ MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Moctar\.gra
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\27717497dea514e8a74de160ecf4c7c3\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:12:5-14:63
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:12:5-14:63
 MERGED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
@@ -333,14 +318,6 @@ MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Moctar\.gr
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\d79562a518be105667b1bd9850dca7a3\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\c2b1c925bfbf36b6711fe9da1c56e038\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\c2b1c925bfbf36b6711fe9da1c56e038\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:27:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:27:5-43
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\aa2cb3b926b6f7170ee5b3a30dc866bb\jetified-play-services-ads-base-18.3.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\aa2cb3b926b6f7170ee5b3a30dc866bb\jetified-play-services-ads-base-18.3.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\38235823be4571b6600ea2768a5f0714\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
@@ -374,7 +351,7 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Moctar\.gradle
 INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:14:9-60
+		ADDED from [com.google.android.gms:play-services-ads:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a48ed7ca06b2b317db65fff4b94d9c5f\jetified-play-services-ads-18.3.0\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Moctar\Desktop\MyProjects\Spare Projects 2016\Android\PanoramicGame\app\src\main\AndroidManifest.xml
@@ -413,42 +390,6 @@ ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.grad
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:40:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\06aa85b0ef20029400c53ca8bfc5c312\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:39:17-119
-uses-permission#android.permission.INTERNET
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:16:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2c64ede3b8a51afd5d3e3254bc0d0a1\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2c64ede3b8a51afd5d3e3254bc0d0a1\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\9582109e96208e006c77b734b4786b4e\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\9582109e96208e006c77b734b4786b4e\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\2c848347d8e0d06fc381ad0a9e8e82ed\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\2c848347d8e0d06fc381ad0a9e8e82ed\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\ce4d352b9913dcc4091b7cdef56d827f\jetified-play-services-ads-lite-18.3.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\ce4d352b9913dcc4091b7cdef56d827f\jetified-play-services-ads-lite-18.3.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\85ce1f8bbc99945023e5c3e7ab58c091\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\85ce1f8bbc99945023e5c3e7ab58c091\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6a9e151ed4fe2e16e7760255c87fe570\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6a9e151ed4fe2e16e7760255c87fe570\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\22343e014bb68b274231ff2550bbb876\jetified-crashlytics-core-2.7.0\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\0962148307f44b5d4a26be6c9e22903f\jetified-beta-1.2.10\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\65e082c1548970864a90577ecaae5c7f\jetified-answers-1.4.7\AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:29:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\8f5e3845f08af95ce426ae44a4b95171\jetified-fabric-1.4.8\AndroidManifest.xml:29:5-67
-	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:16:22-64
-provider#com.crashlytics.android.CrashlyticsInitProvider
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:19:9-23:38
-	android:authorities
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:21:13-75
-	android:exported
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:22:13-37
-	android:initOrder
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:23:13-35
-	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\7e28a7ace48f627f894956c701e95884\jetified-crashlytics-2.10.1\AndroidManifest.xml:20:13-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
@@ -653,6 +594,22 @@ action#androidx.work.impl.background.systemalarm.UpdateProxies
 ADDED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:118:17-98
 	android:name
 		ADDED from [androidx.work:work-runtime:2.0.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6e7094b833b5ca354c5781e68192324a\work-runtime-2.0.0\AndroidManifest.xml:118:25-95
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2c64ede3b8a51afd5d3e3254bc0d0a1\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\a2c64ede3b8a51afd5d3e3254bc0d0a1\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\9582109e96208e006c77b734b4786b4e\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\9582109e96208e006c77b734b4786b4e\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\2c848347d8e0d06fc381ad0a9e8e82ed\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\2c848347d8e0d06fc381ad0a9e8e82ed\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\ce4d352b9913dcc4091b7cdef56d827f\jetified-play-services-ads-lite-18.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\ce4d352b9913dcc4091b7cdef56d827f\jetified-play-services-ads-lite-18.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\85ce1f8bbc99945023e5c3e7ab58c091\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\85ce1f8bbc99945023e5c3e7ab58c091\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6a9e151ed4fe2e16e7760255c87fe570\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\6a9e151ed4fe2e16e7760255c87fe570\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:22-64
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\77f3b0ec32d18de2658261b5e895bb06\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\Moctar\.gradle\caches\transforms-2\files-2.1\2c848347d8e0d06fc381ad0a9e8e82ed\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
