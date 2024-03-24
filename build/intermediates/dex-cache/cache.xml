@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\almoctar\PanoramicGame1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="3c90a73bda7d1573208a93b7801f6f3163e8e42c">
-        <dex dex="C:\Users\almoctar\PanoramicGame1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3d15643268188681f7c5bc2cb05edd05646789b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\almoctar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\almoctar\PanoramicGame1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_8091c41175e6cb5c8bcf5d1396f51903001f8d9a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\almoctar\PanoramicGame1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="df9e3716efc286ab85562de8b7fe8d00bf9390ca">
-        <dex dex="C:\Users\almoctar\PanoramicGame1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9a38879952f523f0c5f385e493e845e481552c04\classes.dex" />
-    </item>
-
-</items>
